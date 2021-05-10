@@ -12,8 +12,10 @@
 <a href="https://www.instagram.com/arturoglzl_/">
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />
 </a>
-<br/><br/>
-### I am a 23-year-old computer engineering student and I am self-taught to be a Full-Stack developer from Mexico. 🦾🤓
+<br/>
+<br/>
+
+## I am a 23-year-old computer engineering student and I am self-taught to be a Full-Stack developer from Mexico. 🦾🤓
 
 "No auntie, I don't know how to hack facebook"
 
