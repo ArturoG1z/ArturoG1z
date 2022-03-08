@@ -4,7 +4,7 @@
   <img align="left" alt="Arturo Glz | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 </a>
 <a href="https://www.linkedin.com/in/felipe-arturo/">
-  <img align="left" alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://t.me/ArturoG1z">
   <img align="left" alt="Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-## I am a 23-year-old computer engineering student and I am self-taught to be a Full-Stack developer from Mexico. 🦾🤓
+## I am a 24-year-old computer engineering student and I am self-taught to be a Full-Stack developer from Mexico. 🦾🤓
 
 "No auntie, I don't know how to hack facebook"
 
