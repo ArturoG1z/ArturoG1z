@@ -1,4 +1,5 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there, I'm Felipe 🐧
+# Hi there, I'm Felipe 🐧 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" align="left">
+
 <br/>
 <a href="https://twitter.com/feli_glz">
   <img align="left" alt="Arturo Glz | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
