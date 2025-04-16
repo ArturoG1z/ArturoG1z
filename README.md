@@ -1,17 +1,14 @@
 # Hi there, I'm Felipe 🐧 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" align="left">
 
 <br/>
-<a href="https://twitter.com/feli_glz">
-  <img align="left" alt="Arturo Glz | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
-</a>
 <a href="https://www.linkedin.com/in/felipe-arturo/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://t.me/ArturoG1z">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />
-</a>
 <a href="https://www.instagram.com/arturoglzl_/">
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />
+</a>
+<a href="https://t.me/ArturoG1z">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />
 </a>
 <br/>
 <br/>
